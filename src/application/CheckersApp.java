@@ -1,5 +1,5 @@
 package application;
-
+//import statements
 import javafx.application.Application;
 import javafx.stage.Stage;
 import scene.SceneManager;
